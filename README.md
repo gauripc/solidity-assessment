@@ -11,16 +11,16 @@ This repository contains a simple Solidity smart contract for a token called "My
 
 ## Getting Started
 
-1.	Deployment
+1.	Deployment:-
    
 Deploy the smart contract to a compatible Ethereum blockchain. You can use tools like Remix or frameworks like Truffle for deployment.
 Interact with the deployed contract using your preferred Ethereum wallet or tool.
 
-2.	Usage
+2.	Usage:-
    
 Customize the contract as needed for your specific use case.
 Implement additional functionality or integrate with other smart contracts if necessary.
 
-3.	Testing
+3.	Testing:-
    
 You can write and run tests using tools like Truffle or Hardhat.
